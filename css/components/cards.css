@@ -1,0 +1,51 @@
+.produto {
+  background-color: white;
+  width:30vw;
+  height:70vh;
+  padding: 15px;
+
+}
+.product-image{
+  width: 50%;
+  height: 200px;
+}
+
+.product-image-center{
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 8px;
+  height: 55%;
+}
+
+.description{
+  width:50%;
+  margin-left: 40px;
+}
+
+.product-info{
+  display:flex;
+  width:100%;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.star-rating {
+  display: flex;
+  font-size: 26px;
+}
+
+.icon {
+ margin-left: 7px;
+ color: orange;
+}
+
+.bottom-images{
+  display: flex;
+  height: 15%;
+  justify-content: space-around;
+
+}
+.single-image{
+  width:33%;
+  
+}
